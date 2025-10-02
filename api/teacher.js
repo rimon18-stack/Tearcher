@@ -90,7 +90,7 @@ module.exports = async (req, res) => {
       "User-Agent": "Mozilla/5.0",
       "Accept": "application/json, text/javascript, */*; q=0.01",
       "Content-Type": "application/x-www-form-urlencoded",
-      "x-csrf-token": "_yrMpNmmkcA-mtrX_HUwzAdfDXs3dG6oP2fIkTgQfpDwCYht-o8lziM93DhDaSJjVpzoJsKb3SoXbKu34MqdSiW5tG14umKznfxxoCwu8BA1",
+      "x-csrf-token": "mrjDRy4u6JHn578J6O88Gk2XbIDuK5Riv-cCsEwX0jlzR0ZjKTP7FIJSw18kxpATi4BVakjqVYU2oKgi1nY82qWq1mv_hFeTgVmtJphZnZ81",
       "x-requested-with": "XMLHttpRequest"
     };
 
@@ -142,7 +142,7 @@ module.exports = async (req, res) => {
       "User-Agent": "Mozilla/5.0",
       "Accept": "application/json, text/javascript, */*; q=0.01",
       "Content-Type": "application/json",
-      "x-csrf-token": "DosTvE0RNMj4AgZjlu7OaZOGenwdOGRIBDcUmuwL4QnUdJp0hHnNgb_KRv0kTSI29ytSfSAADnOnuZLBRTVAqSSXwMzCKE2SKx-kS7vqitA1",
+      "x-csrf-token": "3qD1htkwe6CT6AHZnchO0Puc63a_FFgJ80lqW3BHyWvKeGRV5Hv5jGfmn0x_A895vEu9qB-wToYSGBTOX9Ih2EXIkE99swQh5yq_j_sZdG81",
       "x-requested-with": "XMLHttpRequest"
     };
 
